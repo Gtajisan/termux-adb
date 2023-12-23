@@ -41,7 +41,7 @@ cd termux-adb-0.2.0
 ls
 ```
 ```
-../install.sh
+./install.sh
 ```
 ### check 
 ```
