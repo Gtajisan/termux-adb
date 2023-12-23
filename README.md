@@ -19,6 +19,29 @@ pkg update
 ```
 curl -s https://raw.githubusercontent.com/Gtajisan/termux-adb/master/install.sh | bash
 ```
+** check YouTube video and step follow
+```
+ls
+```
+```
+unzip termux-adb-0.2.0.zip
+```
+```
+ls
+```
+```
+cd termux-adb-0.2.0
+```
+```
+ls
+```
+```
+../install.sh
+```
+```
+
+
+
 
 - this will add `termux-adb` apt repository and install the corresponding public gpg key
 - latest version of `termux-adb` and `termux-fastboot` will be installed
