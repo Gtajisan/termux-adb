@@ -66,7 +66,7 @@ termux-adb devices
 ```
 termux-adb flash recovery
 ```
-**boot recovery and aging you're recovery located*
+**boot recovery and aging you're recovery located**
 ```
 termux-fastboot boot
 ```
