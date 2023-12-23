@@ -19,7 +19,7 @@ pkg update
 ```
 curl -s https://raw.githubusercontent.com/Gtajisan/termux-adb/master/install.sh | bash
 ```
-** check YouTube video and step follow
+**check YouTube video and step follow**
 ```
 ls
 ```
@@ -38,7 +38,48 @@ ls
 ```
 ../install.sh
 ```
+## check 
 ```
+termux-adb version
+```
+## run flash cmd
+```
+termux-adb devices
+```
+**aging**
+```
+termux-adb devices
+```
+```
+termux-adb reboot bootloader
+```
+**check device aging**
+```
+termux-adb devices
+```
+**follow YouTube video step exist on termux open aging termux**
+```
+termux-adb devices
+```
+
+**termux-adb flash recovery [ past you're file location ]**
+```
+termux-adb flash recovery
+```
+**boot recovery and aging you're recovery located*
+```
+termux-fastboot boot
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
