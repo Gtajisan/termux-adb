@@ -38,11 +38,11 @@ ls
 ```
 ../install.sh
 ```
-## check 
+### check 
 ```
 termux-adb version
 ```
-## run flash cmd
+### run flash cmd
 ```
 termux-adb devices
 ```
