@@ -16,9 +16,12 @@ alt="termux api" height="30" width="40" /></a> click the image 🙈
 - in Termux:
 
 ## watch thesis video 
-https://youtu.be/uYIxucVW1Xw?si=k16dl0M5IqCYM1W9
-
-## using setup 
+https://youtu.be/uYIxucVW1Xw?si=k16dl0M5IqCYM1W9 / watch these video 🙈🙈🙈
+##termux link 🙈
+https://www.mediafire.com/file/ol1bgomiymum5yu/Termux_0.118.0%252Bbe66cff.apk/file
+## termux api link 🙈
+https://f-droid.org/repo/com.termux.api_51.apk 🙋‍♂️
+### using setup 
 ```
 pkg update
 ```
