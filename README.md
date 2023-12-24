@@ -17,10 +17,13 @@ alt="termux api" height="30" width="40" /></a> click the image 🙈
 
 ## watch thesis video 
 https://youtu.be/uYIxucVW1Xw?si=k16dl0M5IqCYM1W9 / watch these video 🙈🙈🙈
-##termux link 🙈
+
+## termux link 🙈
 https://www.mediafire.com/file/ol1bgomiymum5yu/Termux_0.118.0%252Bbe66cff.apk/file
+
 ## termux api link 🙈
-https://f-droid.org/repo/com.termux.api_51.apk 🙋‍♂️
+https://f-droid.org/repo/com.termux.api_51.apk 🙋‍♂
+
 ### using setup 
 ```
 pkg update
@@ -28,7 +31,7 @@ pkg update
 ```
 curl -s https://raw.githubusercontent.com/Gtajisan/termux-adb/master/install.sh | bash
 ```
-## check YouTube video and step follow
+### check YouTube video and step follow
 **intsall these  file https://github.com/Gtajisan/termux-adb/archive/refs/tags/0.2.0.zip**
 ```
 ls
@@ -80,7 +83,6 @@ termux-adb flash recovery
 ```
 termux-fastboot boot
 ```
-
 
 
 
