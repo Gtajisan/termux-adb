@@ -9,7 +9,8 @@ It should work with any USB-C male-to-male cable or the corresponding OTG adapte
 
 ## Installation
 
-- install Termux from F-Droid
+- install Termux from mediafire <a href="https://www.mediafire.com/file/ol1bgomiymum5yu/Termux_0.118.0%252Bbe66cff.apk/file" target="blank"><img align="center" src="https://i.postimg.cc/2jHrxZfH/images.png"
+alt="termux🌚" height="30" width="40" /></a>
 - install Termux:API from F-Droid
 - in Termux:
 
