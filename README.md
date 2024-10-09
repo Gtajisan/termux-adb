@@ -31,6 +31,10 @@ pkg update
 ```
 curl -s https://raw.githubusercontent.com/Gtajisan/termux-adb/master/install.sh | bash
 ```
+### if not working try these one 
+```
+$ curl -s https://raw.githubusercontent.com/nohajc/termux-adb/master/install.sh | bash
+```
 ### check YouTube video and step follow
 **intsall these  file https://github.com/Gtajisan/termux-adb/archive/refs/tags/0.2.0.zip**
 ```
